@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding Cat" width="448" width="432" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **CSS**
 - 💬 Ask me about **HTML, C++, C.**
 - 📫 How to reach me: **sarthaktak13@gmail.com**
 
