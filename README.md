@@ -1,4 +1,7 @@
+[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarthak Tak </h1>
+
+<img align="right" alt="Coding Cat" width="448" width="432" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, C++, C.**
